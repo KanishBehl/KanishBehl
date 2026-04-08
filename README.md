@@ -37,38 +37,28 @@ Key contributions include:
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Expertise
 
-### Identity & Access Management
-- SailPoint IdentityIQ
-- Identity Lifecycle Management (JML)
-- Role-Based Access Control (RBAC)
-- Access Certification
-- Segregation of Duties (SoD)
-- Identity Governance & Compliance
+**IAM & Security**  
+![SailPoint](https://img.shields.io/badge/SailPoint-IdentityIQ-blue)
+![RBAC](https://img.shields.io/badge/IAM-RBAC-green)
+![Identity Lifecycle](https://img.shields.io/badge/IAM-JML-orange)
+![SoD](https://img.shields.io/badge/IAM-SoD-red)
 
-### Development
-- Java
-- REST APIs
-- Spring Boot
-- XML
-- SQL
+**Development**  
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-green)
+![REST API](https://img.shields.io/badge/API-REST-blue)
 
-### Automation & Scripting
-- PowerShell
-- Shell Scripting
-- Python
+**Automation & DevOps**  
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-blue)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red)
+![GitHub](https://img.shields.io/badge/GitHub-VersionControl-pink)
 
-### DevOps & Tools
-- Jenkins
-- GitHub
-- Maven
-- WebLogic
-- Apache Tomcat
-
-### Databases
-- Oracle
-- MySQL
+**Databases**  
+![Oracle](https://img.shields.io/badge/Oracle-DB-red)
+![MySQL](https://img.shields.io/badge/MySQL-DB-blue)
 
 ---
 
